@@ -1,6 +1,6 @@
 # ai_chatbot
 
-A new Flutter project.
+A simple ai chatbot made using gemini text generation model api and flutter. 
 
 ## Getting Started
 
